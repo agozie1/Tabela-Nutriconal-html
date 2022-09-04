@@ -1,7 +1,9 @@
 # Tabela Nutriconal
 Projeto de uma tabela nutricional em HTML
 
-<center><table border="20" width="1000" ></center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZkfx71e8fuX2SWQ2JYPQGXA498c42R0TFg&usqp=CAU"  al"Pacote de bolacha" height="200" width="200"> 
+
+<table border="20" width="1000" align="center">
 <tr>
     <th colspan="3">
         <h1>Informação Nutricional</h1> 
@@ -40,4 +42,4 @@ Projeto de uma tabela nutricional em HTML
     <th>Açúcares</th>
     <th>0,25g</th>
     <th>1</th>
-</tr>
+</tr>       
